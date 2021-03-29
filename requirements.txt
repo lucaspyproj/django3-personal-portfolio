@@ -47,7 +47,7 @@ ptyprocess==0.6.0
 pycodestyle==2.5.0
 pydocstyle==5.0.2
 pyflakes==2.1.1
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 PySimpleGUI==4.15.2
 python-for-android==2019.10.6
