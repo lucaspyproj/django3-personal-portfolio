@@ -36,7 +36,7 @@ MarkupSafe==1.1.1
 mccabe==0.6.1
 moviepy==1.0.1
 num2words==0.5.10
-numpy==1.18.1
+numpy==1.22.0
 parso==0.6.1
 pep517==0.6.0
 pexpect==4.8.0
